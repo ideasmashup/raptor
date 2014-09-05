@@ -6,7 +6,10 @@
             xmlns:html="http://www.w3.org/1999/xhtml"
             id        ="mybrowser"
             accelerated="false"
-            hidechrome="true">
+            hidechrome="true"
+			width="1280"
+			height="900"
+			>
     <xul:script type="application/javascript"
                 src="chrome://raptor/content/main.js" />
     <xul:hbox>
